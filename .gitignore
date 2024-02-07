@@ -150,3 +150,37 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+autocorrect_venv/share/man/man1/ttx.1
+autocorrect_venv/share/man/man1/ipython.1
+autocorrect_venv/share/jupyter/kernels/python3/logo-svg.svg
+autocorrect_venv/share/jupyter/kernels/python3/logo-64x64.png
+autocorrect_venv/share/jupyter/kernels/python3/logo-32x32.png
+autocorrect_venv/share/jupyter/kernels/python3/kernel.json
+autocorrect_venv/Scripts/ttx.exe
+autocorrect_venv/Scripts/pywin32_testall.py
+autocorrect_venv/Scripts/pywin32_postinstall.py
+autocorrect_venv/Scripts/pythonw_d.exe
+autocorrect_venv/Scripts/pythonw.exe
+autocorrect_venv/Scripts/python_d.exe
+autocorrect_venv/Scripts/python.exe
+autocorrect_venv/Scripts/pygmentize.exe
+autocorrect_venv/Scripts/pyftsubset.exe
+autocorrect_venv/Scripts/pyftmerge.exe
+autocorrect_venv/Scripts/pip3.exe
+autocorrect_venv/Scripts/pip3.11.exe
+autocorrect_venv/Scripts/pip.exe
+autocorrect_venv/Scripts/jupyter.exe
+autocorrect_venv/Scripts/jupyter-troubleshoot.exe
+autocorrect_venv/Scripts/jupyter-run.exe
+autocorrect_venv/Scripts/jupyter-migrate.exe
+autocorrect_venv/Scripts/jupyter-kernelspec.exe
+autocorrect_venv/Scripts/jupyter-kernel.exe
+autocorrect_venv/Scripts/ipython3.exe
+autocorrect_venv/Scripts/ipython.exe
+autocorrect_venv/Scripts/fonttools.exe
+autocorrect_venv/Scripts/f2py.exe
+autocorrect_venv/Scripts/deactivate.bat
+autocorrect_venv/Scripts/Activate.ps1
+autocorrect_venv/Scripts/activate.bat
+autocorrect_venv/Scripts/activate
+autocorrect_venv/pyvenv.cfg
