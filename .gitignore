@@ -185,3 +185,5 @@ autocorrect_venv/Scripts/Activate.ps1
 autocorrect_venv/Scripts/activate.bat
 autocorrect_venv/Scripts/activate
 autocorrect_venv/pyvenv.cfg
+*.npz
+/input_data
