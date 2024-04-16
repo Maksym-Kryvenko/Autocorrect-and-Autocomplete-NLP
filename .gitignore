@@ -187,6 +187,6 @@ autocorrect_venv/Scripts/activate
 autocorrect_venv/pyvenv.cfg
 *.npz
 /input_data
-
+/models
 
 *.png
